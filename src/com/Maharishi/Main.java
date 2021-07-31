@@ -1,4 +1,4 @@
-package com.company;
+package com.Maharishi;
 
 public class Main {
 
