@@ -35,7 +35,7 @@ public class Main {
     * the same number of 1s that it begins with.
     * Write a method named is121Array that
     * returns 1 if its array argument is a 121 array,
-    * otherwise, it returns 0.
+    * otherwise, it returns 0..
     * */
     static int is121Array(int[] a) {
         int oneCountB = 0;
